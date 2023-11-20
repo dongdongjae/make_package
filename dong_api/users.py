@@ -1,7 +1,7 @@
 import sqlite3
 
-from depends.hash_user import check_password, hash_password
-from depends.validate import checkEmail
+from .depends.hash_user import check_password, hash_password
+from .depends.validate import checkEmail
 from .model_user import SigninUser, SignupUser
 from .auth import create_jwt_token
 

@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name                = 'dong_user_api',
-    version             = '0.1.1',
+    name                = 'make_user_api',
+    version             = '0.0.2',
     description         = 'Process signin and signup',
     author              = 'dongjae',
     author_email        = 'sdhsdj6450@gmail.com',
     install_requires    =  ["bcrypt", "python-dotenv", "PyJWT"],
     packages            = find_packages(exclude = []),
-    url                 = 'https://github.com/dongdongjae/user_package',
+    url                 = 'https://github.com/dongdongjae/make_package',
     python_requires     = '>=3',
     package_data        = {},
     zip_safe            = False,
