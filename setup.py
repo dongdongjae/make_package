@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name                = 'make_user_api',
-    version             = '0.0.2',
+    version             = '0.0.3',
     description         = 'Process signin and signup',
     author              = 'dongjae',
     author_email        = 'sdhsdj6450@gmail.com',
