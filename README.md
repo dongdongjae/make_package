@@ -1,1 +1,2 @@
-# User Package
+# Make Package
+로그인 및 회원가입에 필요한 기능(데이터 조회 및 추가, Token 발급)을 담은 패키지입니다.
